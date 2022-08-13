@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Mowafak-Bahri/qr-code-component)
-- Live Site URL: [Add live site URL here](https://qr-code-component-sigma-mocha.vercel.app/)
+- Solution URL: [Click here](https://github.com/Mowafak-Bahri/qr-code-component)
+- Live Site URL: [Click here](https://qr-code-component-sigma-mocha.vercel.app/)
 
 ## My process
 
