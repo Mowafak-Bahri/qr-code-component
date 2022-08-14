@@ -32,6 +32,10 @@ body{
     flex-direction:column;
     justify-content:center;
     align-items:center;
+    overflow:hidden;
+}
+.image{
+    overflow:hidden;
 }
 .title,.card-description{
     margin:10px 20px ;
@@ -41,6 +45,7 @@ body{
     /* height:260px; */
     margin:15px;
     border-radius:10px;
+    
 }
 .title{
     font-size:22px;
@@ -52,6 +57,16 @@ body{
     text-align: center;
     color:var(--color-Grayish-blue);
     margin-bottom:30px;
+}
+
+@media (hover:hover){
+    .card-image:hover{
+        transform:rotate(90deg) scale(125%);
+        transition:ease-out 0.5s;
+    }
+    .card-image{
+        transition:ease-out 0.5s;
+    }
 }
 
 .container,
